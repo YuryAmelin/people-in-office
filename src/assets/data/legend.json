@@ -1,0 +1,32 @@
+[
+  {
+    "group_id": 0,
+    "color": "green",
+    "text": "Фронтендеры на Vue",
+    "counter": 0
+  },
+  {
+    "group_id": 1,
+    "color": "lightskyblue",
+    "text": "Менеджеры",
+    "counter": 0
+  },
+  {
+    "group_id": 2,
+    "color": "blue",
+    "text": "Фронтендеры на React",
+    "counter": 0
+  },
+  {
+    "group_id": 3,
+    "color": "red",
+    "text": "Фронтендеры на Angular",
+    "counter": 0
+  },
+  {
+    "group_id": 4,
+    "color": "pink",
+    "text": "Галера",
+    "counter": 0
+  }
+]
